@@ -1,0 +1,37 @@
+img.logo {
+    width: 100px;
+}
+.d-block{
+	width:100%;
+}
+p.text-justify {
+    text-align: justify;
+}
+
+button.btn.btn-primary.buttonlearn {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.container-fluid.registration.py-5 {
+    background-color: #030303;
+} 
+
+
+i.fa.fa-search {
+    padding: 10px;
+  
+}
+
+
+select.custom-select.px-4.mb-4 {
+	    height: 47px;
+}
+
+
+form {
+    background-color: #212327;
+    padding: 33px;
+}
